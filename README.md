@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deseekerm
-- 👀 I’m interested in ReactJS and Typescript
-- 🌱 I’m currently learning ReactJS and Typescript
-- 💞️ I’m looking to collaborate on ReactJS and Typescript
-- 📫 How to reach me maduifeanyiemmanuelpaul@gmail.com
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 deseekerm/deseekerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
